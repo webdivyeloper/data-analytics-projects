@@ -14,3 +14,7 @@ This is a Power BI dashboard built using a Coffee Sales dataset. It provides ins
 - Monthly Sales Trend
 - Sales by Product
 - Sales by Time of Day
+
+## Dashboard Preview
+
+![Dashboard](image.png)
